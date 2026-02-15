@@ -3,7 +3,7 @@
 **An open protocol that lets AI agents pay on behalf of users, with user-defined rules.**
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/PaymentAge61218?style=social)](https://twitter.com/PaymentAge61218)
+[![Twitter Follow](https://img.shields.io/twitter/follow/appprotocol?style=social)](https://twitter.com/appprotocol)
 
 ---
 
@@ -111,4 +111,4 @@ Apache 2.0 — See [LICENSE](LICENSE)
 ## Contact
 
 - **GitHub:** [github.com/agent-payment-protocol](https://github.com/agent-payment-protocol)
-- **Twitter/X:** [@PaymentAge61218](https://twitter.com/PaymentAge61218)
+- **Twitter/X:** [@appprotocol](https://twitter.com/appprotocol)
