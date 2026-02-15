@@ -40,4 +40,4 @@ By contributing, you agree that your contributions will be licensed under the Ap
 
 ## Questions?
 
-Open an issue or reach out on Twitter [@agentpayprotocol](https://twitter.com/agentpayprotocol).
+Open an issue or reach out on Twitter [@PaymentAge61218](https://twitter.com/PaymentAge61218).
